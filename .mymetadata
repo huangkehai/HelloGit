@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="HelloGit"
+  id="myeclipse.1364224324187"
+  context-root="/HelloGit"
+  j2ee-spec="6.0"
+  archive="HelloGit.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
